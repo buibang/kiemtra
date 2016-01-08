@@ -1,9 +1,9 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
 #include "iostream"
 using namespace std;
-
+//ThanhMaiNguyễn
 int main()
 {
 	int a[30], n=0, x;
